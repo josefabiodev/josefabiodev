@@ -15,7 +15,7 @@ Sou estundate de Análises e Desenvolvimento de Sistemas, amo desenvolver sistem
 
 ---
 
-- :heart: Análises e DEesenvolvimento de Sistemas
+- :heart: Análises e Desenvolvimento de Sistemas
 - :heart: Em um relacionamento com Dart e Flutter
 - :angel: Aprendendo Bando de Dados MySQL
 

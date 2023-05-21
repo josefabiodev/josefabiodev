@@ -4,7 +4,7 @@
 # :heart_eyes: Olá, bom ter você por aqui
 
  <div id="badges">
-  <a href = "https://www.linkedin.com/feed/?trk=404_page">
+  <a href = "https://www.linkedin.com/in/jos%C3%A9-f%C3%A1bio-7a2973277">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>

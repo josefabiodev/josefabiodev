@@ -21,7 +21,7 @@ Sou estundate de Análises e Desenvolvimento de Sistemas, amo desenvolver sistem
 
 - :heart: Análises e Desenvolvimento de Sistemas
 - :heart: Em um relacionamento com C# .NET 
-- :angel: Aprendendo Bando de Dados SQL Sever
+- :angel: Aprendendo Banco de Dados SQL Sever
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="CSharp" alt="CSharp" width="40" height="40"/>&nbsp;

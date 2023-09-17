@@ -9,6 +9,10 @@
   </a>
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
 </div>
 
 Sou estundate de Análises e Desenvolvimento de Sistemas, amo desenvolver sistemas e criar soluções.
@@ -16,8 +20,8 @@ Sou estundate de Análises e Desenvolvimento de Sistemas, amo desenvolver sistem
 ---
 
 - :heart: Análises e Desenvolvimento de Sistemas
-- :heart: Em um relacionamento com Dart e Flutter
-- :angel: Aprendendo Bando de Dados MySQL
+- :heart: Em um relacionamento com C# .NET 
+- :angel: Aprendendo Bando de Dados SQL Sever
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
